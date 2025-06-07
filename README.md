@@ -18,7 +18,7 @@
 
 > [!LINK]
 > **Link a Wiki**  
-> https://github.com/Eleven1433/Proyecto-ISPC-G14/wiki
+https://github.com/Eleven1433/Proyecto_Intro_prog_Bases.wiki.git
 
 > [!LINK]
 > **Link a proyecto Kanban**  
