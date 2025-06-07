@@ -2,3 +2,4 @@
 # para funcionar correctamente, incluyendo las versiones específicas de cada paquete
 # Este proyecto no requiere paquetes externos.
 # Requiere Python 3.9 o superior.
+# nota n-calmucci
