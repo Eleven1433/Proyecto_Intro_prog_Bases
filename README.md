@@ -18,7 +18,7 @@
 
 > [!LINK]
 > **Link a Wiki**  
-[https://github.com/Eleven1433/Proyecto_Intro_prog_Bases.wiki.git](https://github.com/Eleven1433/Proyecto_Intro_prog_Bases.wiki.git)
+https://github.com/Eleven1433/Proyecto_Intro_prog_Bases/wiki
 
 > [!LINK]
 > **Link a proyecto Kanban**  
