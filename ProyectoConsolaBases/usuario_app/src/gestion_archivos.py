@@ -27,7 +27,7 @@ def guardar_usuarios(usuarios):
 
 
 # Manejo de archivos JSON (leer y guardar usuarios). Seria reemplazado por la conexion a la base de datos desde python
-# tema que no se vio en este modulo introductorio.
+# tema que no se vio en este modulo introductorio. n-calmucci
 # ¿Qué hace este código?
 # Si no existe la carpeta data/, la crea.
 # Si no existe usuarios.json, lo crea con {}.
