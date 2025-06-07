@@ -8,8 +8,6 @@
 - Nicolas Elias Calmucci - Usuario Github: Eleven1433 / **Scrum master - Desarrollador**
 - Juan Ignacio Alonso    - Usuario Github: juanignacioalonso - **Desarrollador**
 - Cesar Ramiro Ruggieri - Usuario Github: subrami22 - **Desarrollador**
-- Ivan Massimino - Usuario Github: IvanMass99 - **Desarrollador**
-
 ---
 
 > [!LINK]
@@ -21,5 +19,5 @@ https://github.com/Eleven1433/Proyecto_Intro_prog_Bases.git
 https://github.com/Eleven1433/Proyecto_Intro_prog_Bases/wiki
 
 > [!LINK]
-> **Link a proyecto Kanban**  
-> https://github.com/users/Eleven1433/projects/1
+> **Link a Documentacion**  
+https://github.com/Eleven1433/Proyecto_Intro_prog_Bases/tree/main/ProyectoConsolaBases/Documentacion
