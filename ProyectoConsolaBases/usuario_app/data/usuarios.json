@@ -1,0 +1,22 @@
+{
+    "admin": {
+        "contrase\u00f1a": "admin123",
+        "rol": "admin"
+    },
+    "admin2": {
+        "contrase\u00f1a": "admin123",
+        "rol": "admin"
+    },
+    "Pablo": {
+        "contrase\u00f1a": "abc123",
+        "rol": "estandar"
+    },
+    "flor": {
+        "contrase\u00f1a": "abc123",
+        "rol": "estandar"
+    },
+    "donatello": {
+        "contrase\u00f1a": "abc123",
+        "rol": "estandar"
+    }
+}
