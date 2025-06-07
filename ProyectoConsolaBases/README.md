@@ -1,4 +1,4 @@
-# Repositorio para Proyecto integrador Grupo 14 ISPC
+# Repositorio para ABP Introduccion a la programacion y bases de datos Grupo 14 ISPC
 
 **Link a repositorio de trabajo remoto**
 
