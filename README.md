@@ -1,4 +1,4 @@
-# Repositorio para Proyecto Final de Introduccion a la programacion y bases de datos - Grupo 14 ISPC
+# Repositorio para ABP de Introduccion a la programacion y bases de datos - Grupo 14 ISPC
 
 - **Título del Proyecto:** Sistema de gestion de usuarios 
 
