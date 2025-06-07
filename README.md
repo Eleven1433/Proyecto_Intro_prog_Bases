@@ -14,7 +14,7 @@
 
 > [!LINK]
 > **Link a repositorio de trabajo remoto**  
-> https://github.com/Eleven1433/Proyecto-ISPC-G14.git
+https://github.com/Eleven1433/Proyecto_Intro_prog_Bases.git
 
 > [!LINK]
 > **Link a Wiki**  
