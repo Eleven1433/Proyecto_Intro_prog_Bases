@@ -1,11 +1,12 @@
 -- Crear la base de datos
 CREATE DATABASE IF NOT EXISTS usuario_app_db;
+
 USE usuario_app_db;
 
 -- Tabla de roles
 CREATE TABLE rol (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    nombre VARCHAR(50) UNIQUE NOT NULL
+    rol VARCHAR(50) UNIQUE NOT NULL
 );
 
 -- Tabla de usuarios
@@ -13,8 +14,6 @@ CREATE TABLE usuario (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nombre_usuario VARCHAR(50) UNIQUE NOT NULL,
     contraseña VARCHAR(255) NOT NULL,
-    nombre_completo VARCHAR(100) NOT NULL,
-    correo VARCHAR(100) UNIQUE NOT NULL,
     rol_id INT NOT NULL,
     FOREIGN KEY (rol_id) REFERENCES rol(id)
         ON DELETE RESTRICT ON UPDATE CASCADE
@@ -32,3 +31,8 @@ CREATE TABLE sesion (
 
 -- Insertar roles iniciales
 INSERT INTO rol (nombre) VALUES ('admin'), ('usuario');
+
+-- Insertar usuarios iniciales
+
+INSERT INTO Usuario (nombre_usuario, contraseña, rol) VALUES ('Pablo', 'abc123', 'usuario');
+INSERT INTO Usuario (nombre_usuario, contraseña, rol) VALUES ('Admin', 'admin', 'admin');
