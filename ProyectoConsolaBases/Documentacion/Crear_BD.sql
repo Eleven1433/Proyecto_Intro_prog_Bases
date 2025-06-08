@@ -31,8 +31,3 @@ CREATE TABLE sesion (
 
 -- Insertar roles iniciales
 INSERT INTO rol (nombre) VALUES ('admin'), ('usuario');
-
--- Insertar usuarios iniciales
-
-INSERT INTO Usuario (nombre_usuario, contraseña, rol) VALUES ('Pablo', 'abc123', 'usuario');
-INSERT INTO Usuario (nombre_usuario, contraseña, rol) VALUES ('Admin', 'admin', 'admin');
