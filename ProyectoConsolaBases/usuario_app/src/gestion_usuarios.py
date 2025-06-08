@@ -75,3 +75,4 @@ def eliminar_usuario():
         print("Usuario no encontrado.")
 
 #Funciones para registrar, iniciar sesión y tareas admin.
+#Funciones para usuarios Cesar Ruggieri
