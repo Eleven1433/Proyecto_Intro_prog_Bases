@@ -1,4 +1,4 @@
-# Repositorio para ABP de Introduccion a la programacion y bases de datos - Grupo 14 ISPC
+# Repositorio para ABP de "Iniciación a la Programación y Bases de Datos" - Grupo 14 ISPC
 
 > [!LINK]
 > **Link a repositorio de trabajo remoto**  
