@@ -5,7 +5,7 @@
 > [!NOTE]
 > **Integrantes**
 
-- Nicolas Elias Calmucci - Usuario Github: Eleven1433 / **Scrum master - Desarrollador**
+- Nicolas Elias Calmucci - Usuario Github: Eleven1433 - ** Desarrollador**
 - Juan Ignacio Alonso    - Usuario Github: juanignacioalonso - **Desarrollador**
 - Cesar Ramiro Ruggieri - Usuario Github: subrami22 - **Desarrollador**
 ---
