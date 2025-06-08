@@ -58,3 +58,4 @@ def mostrar_menu_por_rol(nombre_usuario, rol):
                 print("Opción no válida.")
 
 #Muestra el menú principal y los menús según el rol del usuario.
+#Gestion Menu Cesar Ruggieri

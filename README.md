@@ -1,11 +1,11 @@
-# Repositorio para ABP de Introduccion a la programacion y bases de datos - Grupo 14 ISPC
+# Repositorio para ABP de "Iniciación a la Programación y Bases de Datos" - Grupo 14 ISPC
 
 - **Título del Proyecto:** Sistema de gestion de usuarios 
 
 > [!NOTE]
 > **Integrantes**
 
-- Nicolas Elias Calmucci - Usuario Github: Eleven1433 / **Scrum master - Desarrollador**
+- Nicolas Elias Calmucci - Usuario Github: Eleven1433 - **Desarrollador**
 - Juan Ignacio Alonso    - Usuario Github: juanignacioalonso - **Desarrollador**
 - Cesar Ramiro Ruggieri - Usuario Github: subrami22 - **Desarrollador**
 ---
