@@ -18,5 +18,13 @@
     "donatello": {
         "contrase\u00f1a": "abc123",
         "rol": "estandar"
+    },
+    "2": {
+        "contrase\u00f1a": "123",
+        "rol": "admin"
+    },
+    "Ana": {
+        "contrase\u00f1a": "1234",
+        "rol": "estandar"
     }
 }
