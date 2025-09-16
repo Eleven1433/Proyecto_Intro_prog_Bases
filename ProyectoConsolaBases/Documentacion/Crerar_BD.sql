@@ -2,7 +2,7 @@
 CREATE DATABASE IF NOT EXISTS usuario_app_db;
 USE usuario_app_db;
 
--- Tabla de roles
+-- Tabla  de  roles
 CREATE TABLE rol (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(50) UNIQUE NOT NULL
